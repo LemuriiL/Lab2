@@ -115,7 +115,7 @@ enum Colours
     COLOUR_RED
 };
  
-void printColor(Colours colour)
+void print_colour(Colours colour)
 {
     if (colour == COLOUR_GRAY)
         std::cout << "Gray";
@@ -133,7 +133,7 @@ void printColor(Colours colour)
  
 int main()
 {
-    printColor(COLOUR_BLUE);
+    print_colour(COLOUR_BLUE);
  
     return 0;
 }
@@ -153,7 +153,7 @@ enum Colours
   COLOUR_RED
 };
 
-void printCOLOUR(Colours colour)
+void print_colour(Colours colour)
 {
   std::cout << "The colour is: ";
   switch (colour) {
@@ -180,7 +180,7 @@ void printCOLOUR(Colours colour)
  
 int main()
 {
-  printCOLOUR(COLOUR_BLUE);
+  print_colour(COLOUR_BLUE);
   return 0;
 }
 
