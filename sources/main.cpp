@@ -4,7 +4,7 @@
 
 #include <iostream>
 
-int main() {
-  std::cout << "Hallo!";
+int main()
+{
   return 0;
 }
