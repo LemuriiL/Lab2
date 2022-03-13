@@ -157,6 +157,11 @@ int main()
 
 Неказисто, некрасиво, можно было бы лучше и лаконичнее. Тут и приходит на помощь оператор `switch`
 
+Switch делает следующее: каждому конкретному случаю (кейсу - case) сопоставляет выполняемый код, также присутствует случай не выполнения одного из условий (default). А слово break не более чем обозначается конец выолняемого кода в case и завершает работу с оператором switch.
+
+<img align="center" width="400" height="700" src="https://sun9-24.userapi.com/impf/dP1yIqhtf3dxj77xu6xsi8St2kENlGW0tS-TCQ/Rjl6P278Koc.jpg?size=553x969&quality=96&sign=d5e3de2835959548d5d13bee292943be&type=album">
+
+
 ```c++
 #include <iostream>
 
