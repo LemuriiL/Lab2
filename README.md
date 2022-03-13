@@ -209,7 +209,7 @@ int main()
 ```
 
 
-## Дальнейшее чтение
+### Дальнейшее чтение
 [Оператор ветвления ч.1](http://cppstudio.com/post/286/) <br/>
 [Оператор ветвления ч.2](http://cppstudio.com/post/291/) <br/>
 [Логические операции](http://cppstudio.com/post/297/) <br/>
