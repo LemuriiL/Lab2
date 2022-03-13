@@ -85,7 +85,7 @@ int main() {
 
 Если просто о логических операторах: их всего три "И" - &&, а также "ИЛИ" - || и ещё один "НЕ" - !. Вернёмся в ту же школу. Например, дежурство по классу. Если учитель говорит о том, что пойдёт Иванов И Петров - значит пойдут дежурить оба, в противном случае указание учителя не будет выполнено, а если учитель говорит о том, что пойдёт Сидоров ИЛИ Фёдоров, то удовлетворительным результатом будут следующие случаи: пошёл Сидоров, пошёл Фёдоров, пошли оба; если не пошёл никто, то указание опять будет считаться не выполненным. Ещё имеется случай, когда учитель говорит о том, что Масленков не пойдёт сегодня дежурить - значит что удовлетворительным результатом будет если дежурным будет не Масленков, в противном случае опять провал. Вот так и работают логические операторы. Наглядным примером так же могут служить таблицы истинности и круги Эйлера.
 
-<img align="center" width="450" height="200" src="https://sun9-80.userapi.com/impf/BovmKzBzPeNDTInAtIIBXZN19niz9aIOWKB_eg/USpEJxJGf2A.jpg?size=960x720&quality=96&sign=dc9ad2123eaae0526ab8f22c3503de07&type=album"> <img align="center" width="450" height="200" src="https://sun9-87.userapi.com/impf/s7TlsSseiw99uaFwBe2-knJL2ztdio4BiB2TBw/G9QYz3Y2H34.jpg?size=700x739&quality=96&sign=480419551414b642b431dda8376796e0&type=album">
+<img align="center" width="450" height="250" src="https://sun9-80.userapi.com/impf/BovmKzBzPeNDTInAtIIBXZN19niz9aIOWKB_eg/USpEJxJGf2A.jpg?size=960x720&quality=96&sign=dc9ad2123eaae0526ab8f22c3503de07&type=album">        <img align="center" width="450" height="250" src="https://sun9-87.userapi.com/impf/s7TlsSseiw99uaFwBe2-knJL2ztdio4BiB2TBw/G9QYz3Y2H34.jpg?size=700x739&quality=96&sign=480419551414b642b431dda8376796e0&type=album">
 
 ```c++
 
