@@ -87,7 +87,7 @@ int main() {
 
 <img align="center" width="450" height="270" src="https://sun9-80.userapi.com/impf/BovmKzBzPeNDTInAtIIBXZN19niz9aIOWKB_eg/USpEJxJGf2A.jpg?size=960x720&quality=96&sign=dc9ad2123eaae0526ab8f22c3503de07&type=album">
 
-<img align="center" width="400" height="600" src="https://sun9-87.userapi.com/impf/s7TlsSseiw99uaFwBe2-knJL2ztdio4BiB2TBw/G9QYz3Y2H34.jpg?size=700x739&quality=96&sign=480419551414b642b431dda8376796e0&type=album">
+<img align="center" width="420" height="580" src="https://sun9-87.userapi.com/impf/s7TlsSseiw99uaFwBe2-knJL2ztdio4BiB2TBw/G9QYz3Y2H34.jpg?size=700x739&quality=96&sign=480419551414b642b431dda8376796e0&type=album">
 
 ```c++
 
