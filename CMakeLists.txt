@@ -16,10 +16,10 @@ string(
 )
 add_library(${PROJECT_NAME} STATIC
   ${CMAKE_CURRENT_SOURCE_DIR}/sources/example/example.cpp
-)
+        sources/Lab2.1.cpp)
 
 add_executable(${PROJECT_NAME}_ex
-  ${CMAKE_CURRENT_SOURCE_DIR}/sources/main.cpp
+  ${CMAKE_CURRENT_SOURCE_DIR}/sources/Lab2.1.cpp
 )
 
 target_include_directories(${PROJECT_NAME} PUBLIC
